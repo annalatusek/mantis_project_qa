@@ -1,0 +1,42 @@
+[
+  {
+    "py/object": "model.project.Project",
+    "name": "projekt1",
+    "status":"",
+    "inherit_global": "",
+    "view_state": "",
+    "description": ""
+  },
+  {
+    "py/object": "model.project.Project",
+    "name": "projekt2",
+    "status":"(//option[@value='10'])",
+    "inherit_global": "",
+    "view_state": "(//option[@value='10'])",
+    "description": "opis2"
+  },
+  {
+    "py/object": "model.project.Project",
+    "name": "projekt3",
+    "status":"(//option[@value='30'])",
+    "inherit_global": "",
+    "view_state": "(//option[@value='50'])",
+    "description": "opis3"
+  },
+  {
+    "py/object": "model.project.Project",
+    "name": "projekt4",
+    "status":"(//option[@value='50'])",
+    "inherit_global": "",
+    "view_state": "(//option[@value='10'])",
+    "description": "opis4"
+  },
+  {
+    "py/object": "model.project.Project",
+    "name": "projekt5",
+    "status":"(//option[@value='70'])",
+    "inherit_global": "",
+    "view_state": "(//option[@value='50'])",
+    "description": "opis5"
+  }
+]
